@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background-color: #c2eff0;
+}
+
+main {
+    min-height: calc(100vh - 56px - 56px);
+}
+
+#title {
+    background: url(../images/underwater.jpg) center/cover no-repeat fixed;
+    backdrop-filter: blur(2px);
+    border-radius: 10px;
+}/* Image downloaded from https://wallpapersmug.com/w/download/3840x2160/underwater-sunrays-sea-90f06921175 */

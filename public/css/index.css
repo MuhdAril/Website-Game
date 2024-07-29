@@ -1,0 +1,14 @@
+body {
+    background: url(../images/painting-mountain-lake-with-mountain-background.jpg) center/cover no-repeat fixed;
+    backdrop-filter: blur(2px);
+} /* Image downloaded from https://www.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_40965130.htm#query=nature%20wallpaper&position=0&from_view=keyword&track=ais&uuid=5609ef32-6d22-408d-bd10-45e454c000e7 */
+
+.navbar-nav .nav-link:hover {
+    font-size: 5.0em; 
+}
+
+.navbar-nav .nav-link {
+    font-size: 2.5em;
+    font-weight: bold;  
+    transition: font-size 0.3s ease;
+}
